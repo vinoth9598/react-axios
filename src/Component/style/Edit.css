@@ -1,0 +1,24 @@
+.edit{
+    width:600px;
+}
+.edit>label{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    margin:10px;
+    padding: 10px;
+    font-size: large;
+}
+.Edititem{
+        margin:2rem;
+}
+.editform{
+    text-align: right;
+    width: 500px;
+    margin: 2rem;
+
+}
+.inp{
+    width:300px;
+    padding:5px;
+    overflow: auto;
+}

@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Clementine Bauch",
+      "email": "Nathan@yesenia.net",
+      "phone": "1-463-123-4447",
+      "website": "ramiro.info",
+      "city": "McKenziehaven"
+    },
+    {
+      "id": "2",
+      "name": "Vignesh p",
+      "email": "vignesh@gamil.com",
+      "phone": "9898767756",
+      "website": "www.vicky.com",
+      "city": "|Chennai"
+    },
+    {
+      "id": "3",
+      "name": "vilnoth",
+      "email": "vinoth@gmail.com",
+      "phone": "9898786676",
+      "website": "www.guvi.com",
+      "city": "kumbakonam"
+    },
+    {
+      "id": "4",
+      "name": "kanesh",
+      "email": "kanesh@gmail.com",
+      "phone": "6756757665",
+      "website": "www.kanesh.com",
+      "city": "Tambaram"
+    }
+  ]
+}
